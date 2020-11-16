@@ -1,1 +1,8 @@
-The two main parts of my project are the GUI and the data processing. My goal was to have the GUI completed by this time, but it's not, and I will need to work overtime to catch up. My original plan was the code the GUI myself, from scratch, using the Java Swing components. This proved to be too difficult and all of my research recommended using a GUI Builder, so I installed the NetBeans IDE and have been using it to create my GUI. This has made it much easier, but I am still having many issues mainly due to lack of experience with the program. Making the GUI is proving to be much harder than I expected and I have allocated significantly more time for this project over the next few weeks.
+The two main parts of my project are the GUI and the data processing. My goal was to
+have the GUI completed by this time, but it's not, and I will need to work overtime to
+catch up. My original plan was to code the GUI myself, from scratch, using the Java Swing 
+components. This proved to be too difficult and all of my research recommended using a GUI Builder,
+so I installed the NetBeans IDE and have been using it to create my GUI. This has made it much 
+easier, but I am still having many issues mainly due to lack of experience with the program. Making 
+the GUI is proving to be much harder than I expected and I have allocated significantly more time 
+for this project over the next few weeks.
